@@ -1,4 +1,4 @@
-# Hyphenation
+# Hyphenation ### [how to write](https://ogun.me/)
 ## It is a basic hyphenation app written with C for Turkish language.
 
 ### Function : 
